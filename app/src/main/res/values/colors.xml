@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#c92e30</color>
+    <color name="colorPrimaryDark">#bf2e37</color>
+    <color name="colorAccent">#08e9d6</color>
+    <color name="text_color">#ffffff</color>
+    <color name="register_background">#ffffff</color>
+    <color name="spinner_bg">#bfbebe</color>
+    <color name="editText_color">#1a1a1a</color>
+    <color name="display_color">#282020</color>
+    <color name="bg_color">#dcbaece2</color>
+</resources>

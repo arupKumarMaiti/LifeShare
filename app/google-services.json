@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "720553074524",
+    "firebase_url": "https://lifeshare-e6848.firebaseio.com",
+    "project_id": "lifeshare-e6848",
+    "storage_bucket": "lifeshare-e6848.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720553074524:android:5e822cd3d0d3f805",
+        "android_client_info": {
+          "package_name": "com.sloppy.lifeshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720553074524-h1s5hlf7ufukaictgp6i1bebhjs119e0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sloppy.lifeshare",
+            "certificate_hash": "24bd2b2560cb47850103bcc25466226cf0732515"
+          }
+        },
+        {
+          "client_id": "720553074524-qq18i9j86upfqi722qn14tn0vj2fthvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbTiIrTZdymeceWUBArg4kCb3JcTdMRgI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720553074524-qq18i9j86upfqi722qn14tn0vj2fthvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

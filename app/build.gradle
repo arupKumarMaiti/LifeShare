@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 25
-    buildToolsVersion "25.0.2"
+    buildToolsVersion '26.0.2'
     defaultConfig {
         applicationId "com.sloppy.lifeshare"
         minSdkVersion 21
@@ -39,12 +39,5 @@ dependencies {
 
     testCompile 'junit:junit:4.12'
 }
-
-
-
-
-
-
-
 
 apply plugin: 'com.google.gms.google-services'
